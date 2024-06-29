@@ -1,8 +1,8 @@
 # Jogo do Número Secreto🤖
 
-Olá👋,
-   Este é um projeto de Lógica de programação referente ao "Jogo do número Secreto" desenvolvido utilizando HTML, CSS e JavaScript ,no qual o Jogo tem sua função do usuário decifrar o número secreto em um intervalo de 1 a 10.
-
+Olá👋<br>
+   Este é um projeto de Lógica de programação referente ao "Jogo do número Secreto" desenvolvido utilizando HTML, CSS e JavaScript ,no qual o Jogo tem sua função do usuário decifrar o número secreto em um intervalo de 1 a 10.<br>
+   
 ### 💻Funcionalidades:
 
 ✔️Reconhecimento de voz<br>
