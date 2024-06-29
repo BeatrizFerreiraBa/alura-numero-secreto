@@ -15,6 +15,7 @@ Olá👋<br>
 
 
 <h3>🚀Tecnologias utilizadas:</h3>
+
 HTML<br>
 CSS<br>
 JAVASCRIPT<br>
